@@ -17,5 +17,6 @@ soon but before that the dirty parts have to get tackled first (e.g. Database la
 But with that a few features will definitely be added, here is a list:
 - "Burnable" messages. Basically messages that automatically expire
 - Private dms. Messages won't be saved anywhere in private dms  
+
 (There isn't much, but what is here might remind you of a certain app 👀).
 You can find a full list of features with their descriptions [here](pages/Features.md).
