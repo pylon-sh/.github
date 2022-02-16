@@ -31,6 +31,6 @@ not assume all items here will be added, that isn't the purpose of this list.
 - [Database page](pages/Database.md)  
 Goes over the database structure (tables and such) and will go over what is required
 and what not.
-- [API page](pages/Api.md)
+- [API page](pages/Api.md)  
 The API page will go over everything (well, most things) relating to the API and how
 it will work.
