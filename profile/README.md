@@ -14,9 +14,23 @@ Now, what do I mean by "built like your favourite apps"? Like [Telegram](https:/
 encrypted and you won't have to worry about peeping eyes. We hope to list some features
 soon but before that the dirty parts have to get tackled first (e.g. Database layouts, API layout, etc.).
 
-But with that a few features will definitely be added, here is a list:
+But with that there will be a few features will definitely be added, here is a list:
 - "Burnable" messages. Basically messages that automatically expire
 - Private dms. Messages won't be saved anywhere in private dms  
 
 (There isn't much, but what is here might remind you of a certain app 👀).
-You can find a full list of features with their descriptions [here](pages/Features.md).
+You can find a full list of features with their descriptions [here](pages/Features.md). This page
+will be added as features get added/thought of. There is also a planning page that you can find on
+[our website](https://pylon.sh).
+
+## Pages
+
+- [Features page](pages/Features.md)  
+This goes over some features that will be added or that have been thought of. Do 
+not assume all items here will be added, that isn't the purpose of this list.
+- [Database page](pages/Database.md)  
+Goes over the database structure (tables and such) and will go over what is required
+and what not.
+- [API page](pages/Api.md)
+The API page will go over everything (well, most things) relating to the API and how
+it will work.
