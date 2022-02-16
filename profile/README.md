@@ -2,7 +2,7 @@
 
 Pylon.sh is a privacy oriented messaging app built like your favourite apps. This
 readme, and the following linked documents will go over how Pylon.sh will eventually
-work and define how stuff will be handled. You can check out our website [here](https://pylon.sh).
+work and define how stuff will be handled. You can check out our website [here](https://pylon.sh).s
 
 We'll start off by talking about why Pylon.sh was made. To be frank there is no
 real reason other than I wanted a project that would be long term. So hopefully this
@@ -16,6 +16,6 @@ soon but before that the dirty parts have to get tackled first (e.g. Database la
 
 But with that a few features will definitely be added, here is a list:
 - "Burnable" messages. Basically messages that automatically expire
-- Private dms. Messages won't be saved anywhere in private dms
+- Private dms. Messages won't be saved anywhere in private dms  
 (There isn't much, but what is here might remind you of a certain app 👀).
 You can find a full list of features with their descriptions [here](pages/Features.md).
